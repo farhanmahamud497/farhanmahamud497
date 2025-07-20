@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @farhanmahamud497
 - 👀 I’m interested in Develop website
 - 🌱 I’m currently learning how to build a website
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me follow my github
+- 💞️ I’m looking to collaborate on a company that need software engineers
+- 📫 How to reach me.. follow my github
 - 😄 Pronouns: him
 - ⚡ Fun fact: Future Best software engineer
 

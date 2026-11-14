@@ -1,7 +1,8 @@
+
 # 👨‍💻 MD Farhan Mahamud Tanim
 
 <p align="center">
-  <strong>CSE Undergraduate | Software Engineer | Machine Learning Enthusiast</strong>
+  <strong>CSE Undergraduate | Software Engineering | AI & Machine Learning | Research Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -20,15 +21,18 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science and Engineering undergraduate at **Daffodil International University**, Bangladesh.
+I am a Computer Science and Engineering undergraduate at **Daffodil International University, Bangladesh**.
 
-I'm passionate about building practical software solutions, exploring modern technologies, and solving real-world problems through programming.
+I am passionate about technology, software engineering, artificial intelligence, machine learning, and academic research. I enjoy developing practical software solutions, exploring emerging technologies, and applying computational approaches to solve real-world problems.
 
-- 🎓 Studying Computer Science & Engineering
-- 💻 Interested in Software Engineering and Full-Stack Development
+My interests span software development, intelligent systems, data-driven applications, and interdisciplinary research, particularly in healthcare technology.
+
+- 🎓 Pursuing a B.Sc. in Computer Science & Engineering
+- 💻 Interested in Software Engineering and Application Development
 - 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🔬 Interested in Academic Research and Scientific Publications
 - 🗄️ Interested in Database Systems and Data Management
-- 🔬 Passionate about Research and Continuous Learning
+- 🌱 Committed to continuous learning and technical growth
 
 ---
 
@@ -53,7 +57,7 @@ I'm passionate about building practical software solutions, exploring modern tec
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
-### AI & Machine Learning
+### AI, Machine Learning & Data Science
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
@@ -63,11 +67,16 @@ I'm passionate about building practical software solutions, exploring modern tec
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
-### Database & Tools
+### Database Management
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+### Development Tools & Platforms
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
@@ -78,53 +87,115 @@ I'm passionate about building practical software solutions, exploring modern tec
 
 ---
 
-## 📌 Featured Projects
+## 💻 Projects & Development
 
-### 🧾 Shop Management System
-**Python · Flask · SQLite · HTML · CSS · JavaScript**
+### 1. Rajdhani Seed Company — Invoice & Inventory Management System
 
-- Shop management and inventory tracking.
-- Automated invoice generation.
-- Product CRUD operations.
-- PDF invoice generation.
+**Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript, WeasyPrint
 
-### 🏗️ Construction Management System
-**Python · Java · MySQL · HTML · CSS · JavaScript**
+A web-based business management application designed to simplify shop operations and automate invoice management.
 
-- Construction project management.
-- Worker information management.
-- Database design and workflow management.
-- Project tracking functionalities.
+- Developed an invoice generation system.
+- Implemented product and inventory management.
+- Integrated product CRUD operations.
+- Implemented automated PDF invoice generation.
+- Added invoice search and sales management functionalities.
+- Integrated database-driven inventory and billing operations.
+
+### 2. BuildNest — Construction Management System
+
+**Technologies:** Python, Java, MySQL, HTML, CSS, JavaScript
+
+A construction management platform concept designed to connect project owners and construction workers while organizing project-related activities.
+
+- Focused on construction project management.
+- Designed worker and project information management.
+- Explored database-driven workflow management.
+- Focused on organizing construction-related services and operations.
+- Explored project tracking and coordination functionalities.
+
+### 3. Hybrid Malware Detection Using Machine Learning Techniques
+
+**Domain:** Artificial Intelligence, Machine Learning, Cybersecurity
+
+A research-oriented project exploring machine learning approaches for identifying and detecting malicious software.
+
+- Explored machine learning-based malware detection techniques.
+- Focused on combining multiple detection approaches.
+- Investigated data-driven techniques for identifying malicious patterns.
+- Explored intelligent models for cybersecurity applications.
+
+### 4. JANALA — Service Marketplace Platform
+
+**Domain:** Web Development, Service Marketplace, Database Systems
+
+A digital service marketplace platform designed to connect customers with reliable service providers through an organized online platform.
+
+- Designed a customer and service provider-based marketplace.
+- Focused on service discovery and provider management.
+- Planned user registration, authentication, and profile management.
+- Incorporated service booking and appointment management.
+- Designed administrative workflows for user and service management.
+- Explored payment processing, provider payouts, and dispute management.
+
+**Core Concept:** Connecting service seekers with service providers through an organized and accessible digital marketplace.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research & Academic Work
 
-- Artificial Intelligence
-- Machine Learning
+### ChainTrust-XAI: An Explainable Ensemble Learning Framework for Illicit Bitcoin Transaction Detection
+
+**Research Areas:** Blockchain Analytics, Machine Learning, Explainable Artificial Intelligence (XAI)
+
+Research contribution to an explainable ensemble learning framework designed to identify illicit Bitcoin transactions.
+
+- Explores machine learning techniques for blockchain transaction analysis.
+- Focuses on identifying suspicious and illicit transaction patterns.
+- Investigates ensemble learning approaches.
+- Emphasizes explainability and model interpretability.
+
+**Research Contribution:** Fifth Author
+
+---
+
+## 🎯 Research Interests
+
+I am interested in exploring research opportunities that combine computer science with practical and interdisciplinary applications.
+
+- Artificial Intelligence & Machine Learning
+- Explainable Artificial Intelligence (XAI)
+- Healthcare Informatics and Medical AI
+- Medical Image Processing
+- Data Science and Predictive Analytics
+- Blockchain Analytics
 - Software Engineering
-- Database Systems
-- Data Science
-- Healthcare Technology
+- Database Systems and Data Management
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Computer Science & Engineering**  
-Daffodil International University | 2024 – Present
+### Bachelor of Science in Computer Science & Engineering
 
-**Higher Secondary Certificate (HSC)**  
-Nawab-SirajUd-Dowla Govt. College | 2022
+**Daffodil International University, Bangladesh**  
+2024 – Present
 
-**Secondary School Certificate (SSC)**  
-Kalikapur ML High School | 2020
+### Higher Secondary Certificate (HSC)
+
+**Nawab-SirajUd-Dowla Government College**  
+2022
+
+### Secondary School Certificate (SSC)
+
+**Kalikapur M.L. High School**  
+2020
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-<p>
+<p align="center">
   <a href="mailto:mdtanimislamm@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -136,10 +207,12 @@ Kalikapur ML High School | 2020
   </a>
 </p>
 
-📍 Dhaka, Bangladesh
+<p align="center">
+  📍 Dhaka, Bangladesh
+</p>
 
 ---
 
 <p align="center">
-  <i>"Learning continuously. Building consistently. Growing through technology."</i>
+  <i>"Learning continuously, researching thoughtfully, and building technology for real-world impact."</i>
 </p>
